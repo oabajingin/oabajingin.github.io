@@ -1,0 +1,18 @@
+.masthead.segment {
+    min-height: 400px;
+    background-image: url(data_entry_pic.jpg) !important;
+    background-size: cover;
+    background-position: center;
+}
+
+.push-20 {
+    margin-top: 20px;
+}
+
+.push-10 {
+    margin-top: 10px;
+}
+
+body {
+    background-image: url(html_bg.jpg) !important;
+}
